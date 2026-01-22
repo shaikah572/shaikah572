@@ -1,6 +1,6 @@
 ## Hi, I'm Shaikah 👋
 
-Computer Science graduate with interests in **frontend development, IT systems, and artificial intelligence**.  
+Computer Science graduate with interests in **Full-Stack development, IT systems, and artificial intelligence**.  
 I enjoy building clean, responsive interfaces and expanding my understanding of how software, systems, and AI technologies work together.
 
 ---
@@ -47,7 +47,7 @@ I enjoy building clean, responsive interfaces and expanding my understanding of 
 ---
 
 ### 🎯 Goals
-- Secure an entry-level **Frontend Developer** or **IT Support** role
+- Secure an entry-level **Full-Stack Developer** or **IT Support** role
 - Gradually build projects involving **AI and intelligent systems**
 - Grow into a well-rounded software professional
 
